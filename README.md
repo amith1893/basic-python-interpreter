@@ -1,6 +1,4 @@
-The project is CU Interpreter.
-
-This is written as a part of the Compiler Construction assignment.
+The project is Basic Python Interpreter.
 
 The interpreter behaves like a Python interpreter for the following operations:
 
